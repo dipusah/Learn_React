@@ -1,5 +1,5 @@
 import React from "react";
-
+// alert use
 export default function Alert(props) {
     const capatalized=(word)=>{
         const lower=word.toLowerCase();
